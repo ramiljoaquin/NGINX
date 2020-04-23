@@ -1,3 +1,24 @@
+# Course details
+1h 53m  Beginner  Released: 8/22/2018
+
+Set up high-performance architecture with NGINX, the industry-standard, open-source web server. NGINX offers speed unmatched by competitors like Apache, on top of bonus features such as load balancing and HTTP caching. Its rising popularity makes NGINX an indispensable skills for web developers, system administrators, and web technologists of all kinds. This beginner-level LinkedIn Learning training course shows you how to install and configure NGINX on a Linux machine, and set up the rest of the pieces you need for the complete LEMP web development stack. Instructor Michael Jenkins also explores the security features of NGINX, such as password authentication, HTTPS, and SSL certificates, and its capabilities as a reverse proxy and load balancer.
+
+## Learning objectives
+Installing NGINX on Linux
+Configuring a virtual host
+Installing PHP and MariaDB for the LEMP stack
+Securing sites with NGINX
+Creating SSL certificates
+Reverse proxies
+Load balancing
+Skills covered in this course
+Nginx
+Viewers of this course
+
+
+## Instructor
+Michael Jenkins
+
 # Exercise Files
 The exercise files are located in folders named to match the chapter and lesson they accompany.
 
